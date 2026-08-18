@@ -42,11 +42,10 @@ Dataset público **"Supermarket Sales"** ([Kaggle](https://www.kaggle.com/datase
 
 ## 📸 Screenshots
 
-<!-- Adicione aqui as capturas de tela de cada página, ex: -->
-<!-- ![Visão Geral](images/pagina1-visao-geral.png) -->
-<!-- ![Produtos e Categorias](images/pagina2-produtos.png) -->
-<!-- ![Segmentação de Cliente](images/pagina3-clientes.png) -->
-<!-- ![Sazonalidade](images/pagina4-sazonalidade.png) -->
+<img width="1530" height="741" alt="visao_geral" src="https://github.com/user-attachments/assets/7feb3a76-020b-437f-a1bf-2b470c04283e" />
+<img width="1524" height="725" alt="produtos" src="https://github.com/user-attachments/assets/b01d7ac4-71bc-4a1b-bcb4-60a68f0b5706" />
+<img width="1518" height="742" alt="clientes" src="https://github.com/user-attachments/assets/7b7c7ba1-44ee-40b0-a6f5-1d46fb2e3e33" />
+<img width="1524" height="735" alt="sazonalidade" src="https://github.com/user-attachments/assets/04458ef7-16d4-4d1c-b655-f0af9343eb8f" />
 
 ## 📌 Observações sobre os dados
 
